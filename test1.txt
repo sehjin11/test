@@ -3,5 +3,5 @@ github 사용법 알기
     - branch name : test
     - main 브랜치에서 따오기
 2. sub branch 생성
-    - branch name : dev
-    - test 브랜치를 따름햐
+    - branch name : dev2
+    - from test
